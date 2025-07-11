@@ -1,14 +1,59 @@
-# E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
+# 🛍️ ECommerce Web Shop
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+A fully functional, modern **eCommerce web application** built using **React.js**, **Commerce.js**, and **Stripe** for secure payments. This project demonstrates how to design, develop, and deploy a complete online store — perfect for showcasing advanced React and JavaScript skills.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+---
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## 📌 Project Overview
 
-In this video, we're going to build a fully functional eCommerce application using commerce.js. 
+This project is a responsive and dynamic eCommerce platform that allows users to:
+- Browse products
+- Add items to a shopping cart
+- Adjust quantities
+- Checkout securely with Stripe integration
 
-While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. 
+It’s designed as a portfolio-level project to demonstrate real-world use of React hooks, component design, state management, and third-party APIs.
+
+---
+
+## 🚀 Features
+
+✅ Fully functional product listing  
+✅ Add to cart & update quantities  
+✅ Checkout flow with Stripe payments  
+✅ Dynamic routing with React Router  
+✅ Clean, responsive UI  
+✅ Commerce.js integration for product & cart management  
+✅ Deployable & production-ready
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+- [React.js](https://reactjs.org/) — UI library  
+- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) — Logic & interactivity  
+- [Material-UI](https://mui.com/) — Styling components (optional, if used)  
+- [React Router](https://reactrouter.com/) — Client-side routing
+
+**Backend / Services:**  
+- [Commerce.js](https://commercejs.com/) — Headless eCommerce platform (handles products, carts, orders)  
+- [Stripe](https://stripe.com/) — Secure payment processing
+
+**Deployment:**  
+- Deployed via [Netlify](https://www.netlify.com/)
+
+---
+
+## ⚙️ How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Install dependencies
+npm install
+
+# Start the app
+npm start
+
